@@ -57,32 +57,26 @@ O produto deve seguir os princípios de Design Universal, garantindo que pessoas
   - Feedback sobre simplicidade, acessibilidade e utilidade.  
 - Iteração rápida: ajustes semanais com base nos feedbacks.
 ```
-Interações como o Lovable;
+```
+## Interações como o Lovable;
 > Crie um app de finanças pessoais com base no seguinte PRD (Product Requirements Document); {PRD}
 
-> Connect ao Lovable Cloud
-
-> O chat não está entendendo o que falo
-
-> Estou tentando aumentar a meta, mas o chat não está entendendo
-
-> Não quero aumentar o saldo, quero aumentar a meta de Emergência
-
-> Quero usar a seta do teclado para recuperar as mensagens escritas anteriormente
-
-> Não consigo excluir o saldo da meta cadastrada
-
-> Essas funções deveriam ser realizadas por comandos feitos no chat em linguagem natural
-
-> O chat não entendeu a última ordem
-
-> O chat não consegue corrigir valores cadastrados com erro pelo operador
-
+> Connect ao Lovable Cloud;
+> O chat não está entendendo o que falo;
+> Estou tentando aumentar a meta, mas o chat não está entendendo;
+> Não quero aumentar o saldo, quero aumentar a meta de Emergência;
+> Quero usar a seta do teclado para recuperar as mensagens escritas anteriormente;
+> Não consigo excluir o saldo da meta cadastrada;
+> Essas funções deveriam ser realizadas por comandos feitos no chat em linguagem natural;
+> O chat não entendeu a última ordem;
+> O chat não consegue corrigir valores cadastrados com erro pelo operador;
+```
 Resultado final do Lovable: https://clear-finances-chat.lovable.app
 
 <img width="552" height="647" alt="image" src="https://github.com/user-attachments/assets/aa614d21-de8b-4d9d-a3a3-9f661131acc6" />
 <img width="525" height="486" alt="image" src="https://github.com/user-attachments/assets/0dc1ff1c-7c51-4efc-97af-6e9fbdc99e84" />
 
+```
 ## Funcionalidades Principais
 
 - **Registro de gastos e receitas via chat**  
@@ -124,4 +118,4 @@ A aplicação não possui vasto entendimento de palavras, atendendo apenas a ter
 
 ### O que aprendeu sobre conversar com IAs?
 Estou no início do aprendizado e fiquei positivamente impactado. Entendi que quanto mais específicas são as orientações, melhores são os resultados das consultas.
-
+```
